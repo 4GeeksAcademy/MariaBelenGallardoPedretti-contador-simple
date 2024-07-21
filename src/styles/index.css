@@ -10,3 +10,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.contador-simple{
+    background-color: black;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    padding: 1rem;
+}
+.contador{
+    color: white;
+    font-size: 1rem;
+    padding: 1rem;
+    font-weight: bolder;
+}
